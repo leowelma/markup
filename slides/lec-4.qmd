@@ -179,6 +179,7 @@ library(tidyverse)
 ## FAIR
 
 ![](images/lec-4/FAIR.jpeg)
+<!-- https://digiresacademy.kit.com/posts/how-to-fair-make-your-data-findable-accessible-interoperable-and-reusable -->
 
 ## TADA
 
