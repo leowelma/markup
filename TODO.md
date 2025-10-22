@@ -7,14 +7,9 @@
 
 ### wk 4
 - add more content (max 60 min)
-- add FAIR and TADA guidelines to wk 4 (see https://ecoevorxiv.org/repository/view/9806/)
-- add Docker to wk 4
-- add preregistration to wk 4
 - add RNG to wk 4 (see https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
-- add RepliSims project to wk 4
 - add slides to wk 4 about: writing functions, vectorization (purrr), targets package
 - add how to cite R packages
-- add example Make file?
 - maybe add resources https://github.com/ianhussey/simulation-workshop, https://github.com/ianhussey/simulation-course
 
 ### wk 5
