@@ -302,13 +302,26 @@ compendium/
 e.g. with the `targets` package or `Make` files
 :::
 
-
 ## Gold standard?
 
 ![](images/lec-4/spectrum.jpeg)
 
 ::: footer
 [Peng (2011)](https://doi.org/10.1126/science.1213847)
+:::
+
+## Random number generation
+
+```{r}
+set.seed(1L)
+sample(1:10)
+sample(1:10)
+set.seed(1L)
+sample(1:10)
+```
+
+::: footer
+[Navarro (2025)](https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point)
 :::
 
 ## Reproducible environment or containerized
@@ -459,6 +472,8 @@ Knuth, D. E. (1984). Literate Programming. The Computer Journal, 27(2), 97–111
 Marwick, B., Boettiger, C., & Mullen, L. (2018). Packaging Data Analytical Work Reproducibly Using R (and Friends). The American Statistician, 72(1), 80–88. [https://doi.org/10.1080/00031305.2017.1375986](https://doi.org/10.1080/00031305.2017.1375986)
 
 Morris, T. P., White, I. R., & Crowther, M. J. (2019). Using simulation studies to evaluate statistical methods. Statistics in Medicine, 38(11), 2074–2102. [https://doi.org/10.1002/sim.8086](https://doi.org/10.1002/sim.8086)
+
+  Navarro, D. (2025, May 18). When good pseudorandom numbers go bad. Notes from a Data Witch. https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/
 
 NHANES Questionnaires, Datasets, and Related Documentation. (n.d.). Retrieved October 30, 2023, from [https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Begi-nYear=2015](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Begi-nYear=2015)
 

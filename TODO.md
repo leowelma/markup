@@ -7,7 +7,6 @@
 
 ### wk 4
 - add more content (max 60 min)
-- add RNG to wk 4 (see https://blog.djnavarro.net/posts/2025-05-18_multivariate-normal-sampling-floating-point/)
 - add slides to wk 4 about: writing functions, vectorization (purrr), targets package
 - add how to cite R packages
 - maybe add resources https://github.com/ianhussey/simulation-workshop, https://github.com/ianhussey/simulation-course
@@ -33,5 +32,5 @@
 ### wk 2
 - add more content (max 30 min)
 - add resources to wk 2: https://quarto.org/docs/visual-editor/technical.html, https://biostats-r.github.io/biostats/quarto/, https://datavizf23.classes.andrewheiss.com/resource/markdown.html, https://daringfireball.net/projects/markdown/basics, https://learn.getgrav.org/16/advanced/yaml
-- add slide about conditional output in qmd: https://quarto.org/docs/projects/profiles.html
+- add slide about conditional output/parameterized reports in qmd: https://quarto.org/docs/projects/profiles.html
 - add exercise with reprex
