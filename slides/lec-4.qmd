@@ -53,6 +53,8 @@ A. **Reproducibility is one of the pillars of science**
   - It is the standard by which to judge scientific claims
   - It helps the cumulative growth of knowledge - no duplication of effort
 
+. . . 
+
 B. **Reproducibility may greatly benefit you**
 
   - You'll develop better work habits
@@ -174,7 +176,7 @@ library(tidyverse)
 
 . . . 
 
-![](images/lec-4/quarto.png)
+![](images/lec-4/quarto.png){width=80%}
 
 ## FAIR
 
