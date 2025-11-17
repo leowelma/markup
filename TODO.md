@@ -28,6 +28,7 @@
 
 ### wk 3
 - add resources to exercise: https://ohshitgit.com/, https://github.com/maelle/saperlipopette, https://maelle.github.io/saperlipopette/
+- add https://gitmoji.dev/
 
 ### wk 4
 - add more content (max 60 min)
