@@ -4,21 +4,21 @@
 ::: callout-tip
 ## Lecture Week 5
 
-This week has no lecture slides. We discussed the flow of creating a website with `Git`, `Quarto` and `GitHub pages`. 
+This week has no lecture slides. We discuss the flow of creating a website with `Git`, `Quarto` and `GitHub pages`. 
 :::
 
 ## Exercise
 
 Do the following:
 
-1. Create a new repository on GitHub called `developer-portfolio` or `yourname.github.io` (where `yourname` is your GitHub username). 
-2. Build a website using `Quarto` and `GitHub pages` that showcases your work. Pay attention to e.g.
+1. Create a new repository on GitHub called `yourname.github.io` (where `yourname` is your GitHub username). 
+2. Build a website using `Quarto` and `GitHub pages` that showcases your work. You may include, e.g.,
 
-- who are you
-- what do you do (e.g. expertise, service, product)
-- where people may find you (GitHub, Company page, facebook, G+, twitter, etc.)
-- accomplishments/publications/qualifications/skills etc.
--  detailed curriculum vitae
+    - who you are
+    - what you do (e.g. expertise, service, product)
+    - where people may find you (GitHub, company page, Facebook, X, etc.)
+    - accomplishments/publications/qualifications/skills etc.
+    - detailed curriculum vitae
 
 3. Add a link to your website to the `README.md` file of your repository.
 4. Make your website into a `GitHub` template
