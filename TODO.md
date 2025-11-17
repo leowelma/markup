@@ -11,9 +11,6 @@
 - add how to cite R packages
 - maybe add resources https://github.com/ianhussey/simulation-workshop, https://github.com/ianhussey/simulation-course
 
-### wk 5
-- check if exercise includes instruction to launch username.github.io page
-
 ### wk 6
 - add debugging/browser()
 - add code style/linting/automatic formatting
