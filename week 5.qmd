@@ -24,6 +24,8 @@ Do the following:
     - accomplishments/publications/qualifications/skills etc.
     - detailed curriculum vitae
 
+Note that this page will be public, so think carefully before adding any personal information at all.
+
 3. Add a link to your website to the `README.md` file of your repository.
 4. Make your website into a `GitHub` template
 5. Hand in the link to your hosted personal website as well as a link to your template on `GitHub` - they are deliverables for this course. Also add a zip of the repo at the time of handing in - on your `GitHub` repo click the green `Code` button and choose `Download ZIP`. 
