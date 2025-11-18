@@ -2,8 +2,14 @@
 
 ## Current iteration (2025-2026)
 
-### wk 5
-- check if exercise includes instruction to launch username.github.io page
+### wk 3
+- add resources to exercise: https://ohshitgit.com/, https://github.com/maelle/saperlipopette, https://maelle.github.io/saperlipopette/
+
+### wk 4
+- add more content (max 60 min)
+- add slides to wk 4 about: writing functions, vectorization (purrr), targets package
+- add how to cite R packages
+- maybe add resources https://github.com/ianhussey/simulation-workshop, https://github.com/ianhussey/simulation-course
 
 ### wk 6
 - add debugging/browser()
