@@ -20,7 +20,7 @@ Do the following:
 
     - who you are
     - what you do (e.g. expertise, service, product)
-    - where people may find you (GitHub, company page, Facebook, X, etc.)
+    - where people may find you (GitHub, company page, social media platforms, etc.)
     - accomplishments/publications/qualifications/skills etc.
     - detailed curriculum vitae
 
