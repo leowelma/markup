@@ -19,3 +19,4 @@ Here is a list of contributors that helped to make this story possible.
 - [Anna Vijlbrief](https://github.com/AJV304)
 - [Axel Zweistra](https://github.com/AxelZweistra)
 - [Mano van Holten](https://github.com/EmmaDirk)
+- [Timo van Ommeren](https://github.com/timovanommeren)
